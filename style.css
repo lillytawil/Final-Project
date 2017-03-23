@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=Jim+Nightshade');
+.grow {
+    height: 40%;
+    width: 50%;
+}
+.grow:hover {
+        -webkit-transform: scale(1.0);
+        -ms-transform: scale(1.0);
+        transform: scale(1.0);
+}
+.red {
+    color:#FF0000;
+    background-color:#ffb6c1;
+    font-family: 'Jim Nightshade', cursive;
+}
+.fade
+{
+        opacity:0.5;
+}
+.fade:hover
+{
+        opacity:1;
+}
+#yellow {
+    color:red;
+    font-family: 'Jim Nightshade', cursive;
+}
+#culot {
+    -webkit-transform: scale(0.5);
+    -ms-transform: scale(0.5);
+    transform: scale(0.5);
+    
+}
+#purple {
+    color:purple;
+    font-family:'Jim Nightshade', cursive;
+  
+}
+#floral {
+    -webkit-transform: scale(1.0);
+    -ms-transform: scale(1.0);
+    transform: scale(1.0);
+}
+
+#offtheshoulder {
+    font-family:'Jim Nightshade', cursive;
+    color:orange;
+}
